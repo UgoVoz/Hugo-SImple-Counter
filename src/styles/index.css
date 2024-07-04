@@ -10,3 +10,25 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.big-counter {
+    text-align: center;
+}
+
+.big-counter div {
+    display: inline-block;
+    font-size: 60px;
+    background: #1c1c2c;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    margin: 3px;
+}
+
+.barra1 {
+    background: #f0f2f5;
+    margin: 0px;
+    padding: auto;
+    
+
+}
